@@ -1,0 +1,40 @@
+*{
+    background-color: bisque;
+}
+
+.tip_bill{
+    text-align: center;
+}
+
+.tip_bill h4{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 5px;
+}
+.tip_bill input{
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.calculate_bill{
+    text-align: center;
+    margin-left: 60px;
+}
+.calculate_bill h4{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#btn{
+    padding: 10px;
+    background-color: #008eff;
+    color: white;
+    width: 100px;
+    font-weight: bold;
+    font-size: 16px;
+}
+input#bill {
+    margin-left: 18px;
+}
